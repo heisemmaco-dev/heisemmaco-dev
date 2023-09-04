@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/heisemmaco" target="blank"><img src="https://img.shields.io/twitter/follow/heisemmaco?logo=twitter&style=for-the-badge" alt="heisemmaco" /></a> </p>
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **heisemmaco@gmail.com**
 
