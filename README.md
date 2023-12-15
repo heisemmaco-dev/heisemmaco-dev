@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif)]
 <h1 align="center">Hi 👋, I'm Emmanuel Akpan</h1>
-<h3 align="center">An upcomer in the tech industry, i'm someone who like to profer solutions to problems. i'm open to collabrate with anyone.</h3>
+<h3 align="center">Hello! I'm Emmanuel, an enthusiastic and dedicated aspiring frontend developer eager to master HTML, CSS, and JavaScript. Passionate about creating sleek, user-friendly interfaces. Learning and growing with every line of code.</h3>
 <img align="right" alt= "Coding" width= "400" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisemmaco&label=Profile%20views&color=0e75b6&style=flat" alt="heisemmaco" /> </p>
